@@ -5,3 +5,4 @@ new line test
 
 
 i will add text in new branch devc
+Creating a new branch is quick simple in master
